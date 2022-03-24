@@ -6,7 +6,8 @@ function goodMorning() {
         console.log('dzień dobry');
     }
 
-    log.console('jade na orlowo cos przekasic')
+    console.log('jade na orlowo cos przekasic');
+    console.log('to nie 2005');
 }
 
 goodMorning();
