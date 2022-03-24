@@ -1,2 +1,3 @@
-console.log("Hello World");
-console.log("!");
+const HelloWorld = () => {
+  console.log("Hello World!");
+};
