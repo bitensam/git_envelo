@@ -8,3 +8,5 @@ function goodMorning() {
 
     log.console('jade na orlowo cos przekasic')
 }
+
+goodMorning();
