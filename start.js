@@ -1,2 +1,4 @@
-console.log("Hello World");
-console.log("!");
+const message = () => {
+  console.log("Hello World");
+  console.log("!");
+};
